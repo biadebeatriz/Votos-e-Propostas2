@@ -1,0 +1,110 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/mnt/c/Users/beatr/OneDrive/Documentos/Votes/backend/contracts/Voting.sol": {
+      "lastModificationDate": 1722715967415,
+      "contentHash": "5d06ccd4a5977fea42c30c76800263f6",
+      "sourceName": "contracts/Voting.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.18"
+      ],
+      "artifacts": [
+        "Voting"
+      ]
+    },
+    "/mnt/c/Users/beatr/OneDrive/Documents/Votes/backend/contracts/Voting.sol": {
+      "lastModificationDate": 1722975894882,
+      "contentHash": "5c59d3ad1cdcf8413cc7c09bb9dd2649",
+      "sourceName": "contracts/Voting.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.18"
+      ],
+      "artifacts": [
+        "Voting"
+      ]
+    },
+    "/mnt/c/Users/beatr/OneDrive/Documents/GitHub/backend/contracts/Voting.sol": {
+      "lastModificationDate": 1723048781848,
+      "contentHash": "5c59d3ad1cdcf8413cc7c09bb9dd2649",
+      "sourceName": "contracts/Voting.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.18"
+      ],
+      "artifacts": [
+        "Voting"
+      ]
+    }
+  }
+}
